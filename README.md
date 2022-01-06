@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ...
+- 😄 Pronouns:ele/dele
 
 <div align="center">
   <a href="https://github.com/ramos26794">
